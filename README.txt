@@ -2,8 +2,8 @@ This is a tool designed to be run on startup in order to fix an issue with webca
 such as the Logitech c920 and c922 where their driver forgets the Low Light
 Compensation setting set in the crossbar.
 
-In order to make the tool run on startup simply put a shortcut to it in the windows
-startup folder. It should turn Low Light Compensation off for you.
+In order to make the tool run on startup simply put a shortcut to WebcamFixer.exe
+it in the windows startup folder. It should turn Low Light Compensation off for you.
 
 Please note that sometimes it will take a second or two for the setting to kick in
 after you start up an application that uses the webcam (e.g. OBS). 
